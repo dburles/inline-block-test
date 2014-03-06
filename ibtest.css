@@ -1,0 +1,6 @@
+.if-it-works-it-will-be-on-one-line{
+  display: inline-block;
+  background:red;
+  height:50px;
+  width: 25%;
+}
